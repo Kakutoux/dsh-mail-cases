@@ -1,0 +1,5 @@
+# dsh-mail-cases bundle patch
+# id 必须等于包名：客户端模块系统按 entry id 提供 /plugins/<id>/client.js
+- insert:
+    - id: dsh-mail-cases
+      name: dsh-mail-cases

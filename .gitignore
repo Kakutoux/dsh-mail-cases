@@ -1,0 +1,11 @@
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+
+# 本机数据（正常不在这里，但防止误放）
+cases.db
+cases.db-wal
+cases.db-shm
+files/
+*.tmp
