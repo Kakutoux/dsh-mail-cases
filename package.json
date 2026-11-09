@@ -1,6 +1,6 @@
 {
   "name": "dsh-mail-cases",
-  "version": "0.6.3",
+  "version": "0.7.0",
   "description": "客户邮件整理与事项跟进面板：抓邮件、建 Case、记处理过程。",
   "type": "module",
   "main": "lib/index.js",
