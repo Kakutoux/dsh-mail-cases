@@ -9,3 +9,4 @@ cases.db-wal
 cases.db-shm
 files/
 *.tmp
+tmp/
